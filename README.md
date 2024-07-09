@@ -22,7 +22,7 @@ This project aims to develop a comprehensive web-based attendance management sys
 ## Setup Instructions
 
 1. Clone the repository:
-git clone https://github.com/supriyamanda/Student_Attendance_Tracker
+git clone https://github.com/AjayKonkitala/Student_Attendance_Tracker
 
 
 2. Set up the local development environment using XAMPP.
