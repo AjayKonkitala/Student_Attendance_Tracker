@@ -31,7 +31,7 @@ git clone https://github.com/AjayKonkitala/Student_Attendance_Tracker
 - Student Tables: `student_details`, `student_login_details`
 - Course Tables: `course_information`
 - Attendance Tables: `attendance_details`, `attendance_tracking`
-<img width="792" alt="image" src="https://github.com/AjayKonkitala/Student_Attendance_Tracker/assets/159104572/0583b240-e0fa-4083-a78d-597f47924f2f">
+<img width="560" alt="image" src="https://github.com/AjayKonkitala/Student_Attendance_Tracker/assets/159104572/0583b240-e0fa-4083-a78d-597f47924f2f">
 
 
 
